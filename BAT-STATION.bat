@@ -12,7 +12,7 @@ set "s1=BAR"
 set "s2=CHR"
 set "s3=STR"
 
-set "VERSION=1.0"
+set "VERSION=1.1"
 set "UPDATE_URL=https://raw.githubusercontent.com/pygame-developer/BAT-STATION/main"
 if "%UPDATE_URL:YOURNAME=%"=="%UPDATE_URL%" call :checkupdate
 
